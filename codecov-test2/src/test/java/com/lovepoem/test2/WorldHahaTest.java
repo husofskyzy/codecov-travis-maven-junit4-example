@@ -21,7 +21,7 @@ public class WorldHahaTest {
 
     @Test
     public void testGetMessage2() {
-        assertEquals("WorldHaha bigaaa!", subject.getMessage(true));
+        assertEquals("WorldHaha big!", subject.getMessage(true));
     }
 
     @Test
