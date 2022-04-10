@@ -15,7 +15,7 @@ Travis CI + [Codecov][0] + Junit4 + cobertura + java1.7 + Maven Java Example
 
 ## 3: Add travis and codecov icon in  README.md
 [![Build Status](https://travis-ci.org/lovepoem/codecov-travis-maven-junit4-example.svg?branch=master)](https://travis-ci.org/lovepoem/codecov-travis-maven-junit4-example)
-[![codecov](https://codecov.io/gh/lovepoem/codecov-travis-maven-junit4-example/branch/master/graph/badge.svg)](https://codecov.io/gh/lovepoem/codecov-travis-maven-junit4-example)
+[![codecov](https://codecov.io/gh/huofskyzy/codecov-travis-maven-junit4-example/branch/master/graph/badge.svg)](https://codecov.io/gh/huofskyzy/codecov-travis-maven-junit4-example)
 
 ## 4: Notice
   Use `cobertura-maven-plugin` plugin `version 2.7` to collect test coverage without codecov token , can support jdk version: `java1.7`,  `java8`+  will not maintained
